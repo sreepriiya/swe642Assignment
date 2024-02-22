@@ -1,0 +1,76 @@
+/* Last Name: NALLA */
+body{
+    /* editted light gray background color  */
+    background-color: rgb(241, 240, 240);
+}
+.main-div{
+    margin: 10px 10px 10px 10px;
+
+}
+h1{
+    background-color: rgb(241, 240, 240);
+    color: aliceblue;
+    border: 5px #006633 solid;
+    box-shadow: 10px 5px 5px #79837e;
+}
+img{
+    width: 280px;
+    
+}
+h2{
+    text-align: center;
+    background-color:#006633;
+    border: 10px #006633 solid;
+    color:  rgb(255, 252, 252);
+}
+p.survey{
+    background-color: #FFCC33;
+    color: #006633 ;
+}
+p.CSdepartment{
+    color: rgb(65, 60, 60);
+    text-align: justify;
+}
+ul li::before {
+    content: "\2022";
+    color: #FFCC33;
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+  }
+  h3{
+    background-color: #FFCC33;
+    color: #006633 ;
+    border: 5px #FFCC33 solid;
+}
+h4{
+    background-color:#006633;
+    color:   rgb(247, 243, 243);
+    border: 5px #006633 solid;
+}
+table{
+    width: 100%;
+    border-collapse:collapse;
+    color: rgb(65, 60, 60);
+}
+
+
+tr:nth-child(even) {  
+    background-color: rgb(217, 217, 217);
+  } 
+.rowone{
+    width:30%;
+    padding-left: 20px;
+}
+.rowtwo{
+    width:40%;
+}
+.rowthree{
+    width:20%;
+    text-align: center;
+    padding-right: 50px;
+}
+.boldrow{
+    font-weight: bold;
+}

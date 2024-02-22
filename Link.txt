@@ -1,0 +1,5 @@
+Link: http://snalla.com.s3-website-us-east-1.amazonaws.com
+
+Main HTML file is snalla.html file.
+
+Last Name: NALLA
